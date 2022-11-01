@@ -1,3 +1,7 @@
+#Time_Complexity: O(n)
+#Space_Complexity: O(n)
+
+
 """
 # Definition for a Node.
 class Node:
